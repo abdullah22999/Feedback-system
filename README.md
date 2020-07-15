@@ -1,6 +1,8 @@
 # Design-Feedback-system
 motion controller with feedback system(Circuit + Code + Algorithm )
 
+I worked with a colleague of mine in a group together>>>
+
 -----------------------------------------------
 
 # Algorithm 
